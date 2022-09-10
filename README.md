@@ -1,2 +1,3 @@
-# semana-aratu-2
-Repositório para ser usado como exemplo na semana Aratu
+# Repositório de exemplo para semana ARATU 
+
+Esse repositório é só um exemplo de como utilizar os recursos de exemplo para semana aratu.
